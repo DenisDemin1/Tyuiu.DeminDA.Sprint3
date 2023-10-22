@@ -18,8 +18,8 @@ namespace Tyuiu.DeminDA.Sprint3.Task2.V24
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема:  Оператор цикла for                                               *");
-            Console.WriteLine("* Задание #0                                                              *");
-            Console.WriteLine("* Вариант #26                                                             *");
+            Console.WriteLine("* Задание #2                                                              *");
+            Console.WriteLine("* Вариант #24                                                             *");
             Console.WriteLine("* Выполнил: Дёмин Денис Александрович | ИИПБ-23-2                         *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
