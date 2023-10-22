@@ -10,7 +10,7 @@ namespace Tyuiu.DeminDA.Sprint3.Task1.V19
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             DataService ds = new DataService();
 
             Console.Title = "Спринт #3 | Выполнил: Дёмин Д.А. | ИИПБ-23-2";
