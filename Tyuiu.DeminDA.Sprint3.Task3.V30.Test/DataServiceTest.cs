@@ -8,7 +8,7 @@ namespace Tyuiu.DeminDA.Sprint3.Task3.V30.Test
     {
         [TestMethod]
         public void CheckGetMaxCharCount()
-        {
+        {   
             DataService ds = new DataService();
 
             string value = "fyyklbtyn ygrc vfyyyyh";

@@ -10,7 +10,7 @@ namespace Tyuiu.DeminDA.Sprint3.Task3.V30
     class Program
     {
         static void Main(string[] args)
-        {
+        {   
             DataService ds = new DataService();
             Console.Title = "Спринт #3 | Выполнил: Дёмин Д.А. | ИИПБ-23-2";
             //Длина строки 75 символов

@@ -10,7 +10,7 @@ namespace Tyuiu.DeminDA.Sprint3.Task3.V30.Lib
     public class DataService : ISprint3Task3V30
     {
         public int GetMaxCharCount(string value, char item)
-        {
+        {   
             int res = 0;
             int count = 0;
 
