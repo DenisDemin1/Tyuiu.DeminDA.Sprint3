@@ -2,7 +2,7 @@
 using System;
 using Tyuiu.DeminDA.Sprint3.Task0.V26.Lib;
 namespace Tyuiu.DeminDA.Sprint3.Task0.V26.Test
-{
+{   
     [TestClass]
     public class DataServiceTest
     {
