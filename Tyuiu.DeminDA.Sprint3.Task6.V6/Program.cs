@@ -42,7 +42,7 @@ namespace Tyuiu.DeminDA.Sprint3.Task6.V6
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("Количество делителей = " +  ds.GetSumTheDivisors(startValue, stopValue));
 
-            Console.ReadLine();
+            Console.ReadLine(); 
 
 
 
